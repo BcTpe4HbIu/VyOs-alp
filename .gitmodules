@@ -96,7 +96,7 @@
 	url = https://github.com/vyos/vyatta-grub.git
 [submodule "pkgs/vyatta-webproxy"]
 	path = pkgs/vyatta-webproxy
-	url = https://github.com/vyos/vyatta-webproxy.git
+	url = https://github.com/BcTpe4HbIu/vyatta-webproxy.git
 [submodule "pkgs/live-initramfs"]
 	path = pkgs/live-initramfs
 	url = https://github.com/vyos/live-initramfs.git
@@ -129,7 +129,7 @@
 	url = https://github.com/vyos/vyatta-wireless.git
 [submodule "pkgs/squidguard"]
 	path = pkgs/squidguard
-	url = https://github.com/vyos/squidguard.git
+	url = https://github.com/BcTpe4HbIu/squidguard.git
 [submodule "pkgs/vyatta-strongswan"]
 	path = pkgs/vyatta-strongswan
 	url = https://github.com/vyos/vyatta-strongswan.git
